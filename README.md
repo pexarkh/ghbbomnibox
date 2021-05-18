@@ -1,1 +1,5 @@
-# ghbbomnibox
+# chrome omnibox example
+
+very basic example of a chrome omnibox extension...
+
+typying backslash + tab will activate...
